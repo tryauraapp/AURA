@@ -1,0 +1,73 @@
+**Privacy Policy for Aura**
+
+**Effective Date:** April 8, 2025
+
+This Privacy Policy describes how Wingman ("we," "us," or "our") handles information in connection with your use of the Aura mobile application (the "App"). Our website is wingmanmedia.io.
+
+Thank you for choosing Aura. Your privacy is important to us. This policy explains our approach to information handling, particularly clarifying that while we develop and provide the Aura app, we do not directly collect or store your personal data. However, the App relies on third-party services to function, which have their own privacy practices.
+
+**1. Information We Do Not Collect**
+
+Wingman does not directly collect, store, or process any personal data that identifies you as an individual (such as your name, email address, phone number, or precise location) through your use of the Aura app. We do not maintain user accounts or databases containing user personal information on our own servers.
+
+**2. Information Processed by Third-Party Services**
+
+To provide its core functionality, Aura utilizes the following third-party services:
+
+  * **Google Firebase:** We use Google Firebase for essential app infrastructure and backend services. Firebase may collect certain data to provide these services, which could include:
+
+      * Device information (e.g., device model, operating system version, unique device identifiers).
+      * Usage data (e.g., feature usage frequency, crash reports, performance data).
+      * Other information as detailed in Google's policies.
+        We use this information primarily for app stability monitoring (like crash reporting) and understanding basic usage patterns to improve the App. We do not use Firebase to track individual users across apps or build detailed user profiles.
+
+  * **Google Gemini API:** The App uses the Google Gemini API to power specific features. When you interact with features utilizing this API, the inputs you provide (e.g., text prompts) and the generated outputs may be processed by Google. Google processes this data to provide the API service and potentially for service improvement, subject to their terms and policies.
+
+**Important:** The collection and use of data by these Google services are governed by Google's own privacy policies. We do not control how Google collects or uses this data. We strongly encourage you to review their policies:
+\* **Google Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
+\* **How Google uses information from sites or apps that use our services:** [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+\* You may also wish to review specific policies related to Firebase and Google's AI services if available.
+
+**3. How We Use Information Handled by Third Parties**
+
+Any information processed by Google Firebase and the Google Gemini API is used solely for the purpose of:
+
+  * Operating and maintaining the functionality of the Aura app.
+  * Monitoring app performance and stability (e.g., crash reporting via Firebase).
+  * Enabling features powered by the Gemini API.
+  * Improving the user experience based on aggregated, non-identifiable usage patterns.
+
+We do not access or use data collected by these third parties for tracking, advertising, or any purpose other than enabling and improving the Aura app's core service.
+
+**4. Information Sharing**
+
+We do not share any personal information with third parties because we do not collect it directly. Any data sharing that occurs is between your device and the third-party services (Google Firebase, Google Gemini API) as required for the App to function, and is subject to Google's privacy policies.
+
+**5. Data Security**
+
+While we do not store your personal data, we rely on the security measures implemented by Google for its Firebase and Gemini API services to protect the data they process during the operation of the Aura app.
+
+**6. Data Retention**
+
+We do not retain any personal data. Data retention for information processed by Google Firebase and the Google Gemini API is governed by Google's data retention policies.
+
+**7. Your Privacy Rights**
+
+Since we do not collect or store your personal data, requests regarding access, correction, deletion, or other rights concerning data processed by Google services should be directed to Google according to the procedures outlined in their privacy policies. You may also be able to manage certain data collection settings through your device's operating system (e.g., limiting ad tracking, managing permissions).
+
+**8. Children's Privacy**
+
+Aura is not intended for use by children under the age of 13 (or the relevant age of digital consent in your jurisdiction). We do not knowingly collect any personal information from children. If we become aware that personal information has been collected from a child without parental consent, we will take steps to address it, although this data would likely reside with our third-party service providers.
+
+**9. Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or the services we use. If we make material changes, we will notify you by posting the updated policy within the App or through other appropriate means prior to the change becoming effective. Your continued use of the Aura app after any changes signifies your acceptance of the revised Privacy Policy.
+
+**10. Contact Us**
+
+If you have any questions about this Privacy Policy, or wish to connect with us, you can reach Wingman through the following channels:
+
+  * **Email:** contact@wingmanmedia.io
+  * **Website:** wingmanmedia.io
+  * **X (Twitter):** @upyouraura ( [https://twitter.com/upyouraura](https://www.google.com/search?q=https://twitter.com/upyouraura) )
+  * **Instagram:** @tryauraapp ( [https://www.instagram.com/tryauraapp/](https://www.google.com/search?q=https://www.instagram.com/tryauraapp/) )
